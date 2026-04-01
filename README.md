@@ -1,11 +1,16 @@
-# Exercise-05a-Movement
+# Exercise-05b-
+
 
 
 ## Implementation
 
-## References
+Created maze tiles and then changed the code to be able to change the width and height
+
+references
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+
+Michelle Garcia 
+
